@@ -1,7 +1,7 @@
 
 # 🏴SuperCoasterNV🏴
 
-PRO-Team: Karim,Pluk,Dennis 
+☛PRO-Team: Karim,Pluk,Dennis☚<br> 
 bij deze project gaan wij voor een klant een website maken 
 - Doel van deze website is om de bedrijf te verbreiden met connectie's 
 - En hun doelgroep te bereiken
