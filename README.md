@@ -6,8 +6,8 @@ bij deze project gaan wij voor een klant een website maken
 - Doel van deze website is om de bedrijf te verbreiden met connectie's 
 - En hun doelgroep te bereiken
 
-📄Note: Push en Pull voor dat je begint! ;_).
-Color: Yellow, Blue
+📄Note: Push en Pull voor dat je begint! ;_).<br>
+Color: Yellow, Blue<br>
 Fonts: Pacifico,
 
 ## Authors 💻
