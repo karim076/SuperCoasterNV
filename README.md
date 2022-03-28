@@ -7,7 +7,8 @@ bij deze project gaan wij voor een klant een website maken
 - En hun doelgroep te bereiken
 
 📄Note: Push en Pull voor dat je begint! ;_).
-
+Color: Yellow, Blue
+Fonts: Pacifico,
 
 ## Authors 💻
 
