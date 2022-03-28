@@ -3,7 +3,9 @@
         <div class="wrapper">
             <div class="navbar">
                 <div class="navleft">
-                    <img src="../img/logo.png" alt="SuperCoaster Logo">
+                    <img src="../img/logo.png" alt="#">
+
+                    <h1>SuperCoaster</h1>
                 </div>
 
                 <div class="navright">
