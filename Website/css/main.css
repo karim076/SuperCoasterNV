@@ -16,7 +16,7 @@
 }
 
 body {
-    background-color: lightblue;
+    background-color: linear-gradient(grey, black);
 }
 
 /*        */
@@ -25,7 +25,10 @@ body {
 nav {
     background-color: var(--nav);
 }
-
+h1{
+    font-family: Pacifico;
+    font-size: 40px;
+}
 .navbar {
     padding: 10px 0;
     display: flex;
