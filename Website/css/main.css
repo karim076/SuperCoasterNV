@@ -3,3 +3,38 @@
     --second: ;
     --nav: ;
 }
+
+.wrapper {
+    max-width: 1632px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: lightblue;
+}
+
+/*        */
+/* NAVBAR */
+/*        */
+nav {
+    background-color: var(--nav);
+}
+
+.navbar {
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    padding: 0 10px;
+    font-size: 18px;
+}
+
+.active {
+    background: white;
+    border: 1px solid white;
+    border-radius: 50px;
+}
