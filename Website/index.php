@@ -2,16 +2,16 @@
 <html lang="en">
     <head>
         <title>Lorem Ipsum</title>
-        <?php @require 'layout/head.php' ?>
+        <?php require_once 'layout/head.php' ?>
     </head>
 
     <body>
-        <?php @require 'layout/header.php' ?>
+        <?php require_once 'layout/header.php' ?>
 
         <main>
 
         </main>
 
-        <?php @require 'layout/footer.php' ?>
+        <?php require_once 'layout/footer.php' ?>
     </body>
 </html>
