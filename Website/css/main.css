@@ -16,7 +16,9 @@
 }
 
 body {
-    background-color: linear-gradient(grey, black);
+    background-image: linear-gradient(#00FFFF, #EADDCA);
+    background-size: cover;
+    min-height: 100vh;
 }
 
 /*        */
