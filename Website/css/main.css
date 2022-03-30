@@ -1,5 +1,6 @@
 :root {
     --main: ;
+    --main-linear: linear-gradient(#00FFFF, #EADDCA);
     --second: ;
     --nav: ;
     --nav-rgb: rgba(0,0,0,0.3);
@@ -17,7 +18,7 @@
 }
 
 body {
-    background-image: linear-gradient(#00FFFF, #EADDCA);
+    background-image: var(--main-linear);
     background-size: cover;
     min-height: 100vh;
 }
