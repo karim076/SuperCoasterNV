@@ -2,6 +2,7 @@
     --main: ;
     --second: ;
     --nav: ;
+    --nav-rgb: rgba(0,0,0,0.3);
 }
 
 /*font/body*/
@@ -25,22 +26,24 @@ body {
 /* NAVBAR */
 /*        */
 nav {
-    background-color: var(--nav);
+    background-color: var(--nav-rgb);
 }
+
 h1{
     font-family: Pacifico;
     font-size: 40px;
 }
+
 .navbar {
-    padding: 10px 0;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .navbar a {
     text-decoration: none;
     color: black;
-    padding: 0 10px;
+    padding: 5px 10px;
     font-size: 18px;
 }
 
@@ -48,4 +51,13 @@ h1{
     background: white;
     border: 1px solid white;
     border-radius: 50px;
+}
+
+.navleft {
+    display: flex;
+    align-items: center;
+}
+
+.navleft img {
+    width: 75px;
 }
