@@ -2,7 +2,7 @@
     --main: ;
     --main-linear: linear-gradient(#00FFFF, #EADDCA);
     --second: ;
-    --nav: ;
+    --nav: #000000;
     --nav-rgb: rgba(0,0,0,0.3);
 }
 
