@@ -10,6 +10,12 @@
     src: url(../font/Pacifico.ttf);
 }
 
+@font-face {
+    font-family: PatrickHand;
+    src: url(../font/PatrickHand-Regular.ttf);
+}
+
+
 .wrapper {
     max-width: 1632px;
     margin: 0 auto;
