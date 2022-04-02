@@ -25,7 +25,11 @@ body {
     background-image: linear-gradient(#00FFFF, #EADDCA);
     background-size: cover;
     min-height: 100vh;
-}
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+ }
 
 /*        */
 /* NAVBAR */
@@ -41,6 +45,7 @@ h1{
     padding: 10px 0;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .navbar a {
@@ -55,7 +60,13 @@ h1{
     border: 1px solid white;
     border-radius: 50px;
 }
-
+.navLeft{
+    display: flex;
+    flex-direction: row;
+}
+.navLeft img{
+    max-width: 150px;
+}
 /* FOOTER */
 footer{
     background-color: black;
