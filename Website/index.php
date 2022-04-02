@@ -11,7 +11,8 @@
         <main>
 
         </main>
-
-        <?php require_once 'layout/footer.php' ?>
+        <footer>
+            <?php require_once 'layout/footer.php' ?>
+        </footer>
     </body>
 </html>
