@@ -8,7 +8,7 @@
                 </div>
 
                 <div class="navRight">
-                    <a href="index.php" class="active">Home</a>
+                    <a class="active" href="index.php">Home</a>
                     <a href="">Constructie</a>
                     <a href="">Treintjes</a>
                     <a href="contact.php">Contact</a>
