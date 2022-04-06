@@ -67,6 +67,16 @@ h1{
 .navLeft img{
     max-width: 150px;
 }
+/*      */
+/* FORM */
+/*      */
+.form-group {
+    display: flex;
+    flex-direction: column;
+    max-width: 25%;
+    margin: 10px 0;
+}
+
 /* FOOTER */
 footer{
     background-color: #626262;
