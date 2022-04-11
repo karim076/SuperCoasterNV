@@ -1,3 +1,6 @@
+h6{
+    padding: 0;
+}
 /*font/body*/
 @font-face {
     font-family: Pacifico;
@@ -42,6 +45,7 @@ header {
 .firstLeft h2{
     font-family: Pacifico;
     color: #B0CFE0;
+    letter-spacing: 1px;
 }
 .firstLeft img{
     width: 100%;
@@ -93,25 +97,51 @@ header {
   
 
 /*   Eind navbar     */
-
-
-.top{
-    background-image: url("../img/frontpage.jpg");
-    z-index: -1000;
-    opacity: 0.6;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    padding-top: 270px;
-    padding-bottom: 270px;
-    margin-bottom: 100px;
+.containers img{
+    width:100%; 
+    max-height:750px;
 }
 
-.top .wrapper{
-    color: yellow;
+.containers {
+    position: relative;
     text-align: center;
-    font-size: 50px;
+    color: white;
+    z-index: -1;
+    overflow: hidden;
 }
+.centered {
+    display: block;
+    z-index: 1;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+/*text dec*/
+.centered h6 {
+  background: rgba(0, 0, 0, 0.623);  
+  z-index: 4;
+  text-align: center;
+  color: #cf1b1b;
+  font-size: 124px;
+  letter-spacing: 8px;
+  cursor: pointer;
+}
+.centered p {
+    background: rgba(0, 0, 0, 0.623);
+    width: 100%;
+    z-index: 4;
+    position: absolute;
+    color: #fff;
+    font-size: 50px;
+    letter-spacing: 8px;
+    cursor: pointer;
+    text-align: center;
+  }
+
+
+/*einde*/
 
 .indexText .wrapper{
     display: flex;
