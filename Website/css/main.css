@@ -78,6 +78,34 @@ h1{
 .navLeft img{
     max-width: 150px;
 }
+
+.top{
+    background-image: url("../img/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 270px;
+    padding-bottom: 270px;
+    margin-bottom: 100px;
+}
+
+.top .wrapper{
+    color: yellow;
+    text-align: center;
+    font-size: 50px;
+}
+
+.indexText .wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.indexText .wrapper img{
+    height: 500px;
+}
+
 /*      */
 /* FORM */
 /*      */
@@ -157,6 +185,10 @@ footer{
     background-color: #626262;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+footer a:hover{
+    border-bottom: 2px solid grey;
 }
 
 footer .wrapper{
