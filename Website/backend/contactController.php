@@ -1,7 +1,8 @@
 <?php
 
-$action = $_POST['action']
-if ("contact" = $action)
+$action = $_POST['action'];
+
+if ("contact" == $action)
 {
 	/*Variables opgehaald van het form*/
 	$name = $_POST['name'];
@@ -9,9 +10,9 @@ if ("contact" = $action)
 	$number = $_POST['number'];
 	$msg = $_POST['msg'];
 	/*Controle*/
-	if (!isset(name) and !isset(email) and !is_numeric(number))
+	if (!isset($name) and !isset($email) and !is_numeric($number))
 	{
-		die("Voer opnieuw uw informatie in, dit kan zijn dat u niet juiste informatie heeft ingevoerd.")
+		die("Voer opnieuw uw informatie in, dit kan zijn dat u niet juiste informatie heeft ingevoerd.");
 	}
 
 	/*5 stappan connectie*/
