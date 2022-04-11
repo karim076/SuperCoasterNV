@@ -1,19 +1,14 @@
 <header>
+    <div class="firstLeft">
+        <img src="http://localhost/Tweede%20Periode/SuperCoasterNV/Website/img/logo.png" alt="logo">
+        <h2>SuperCoasterNV</h2>
+    </div>
     <nav>
-        <div class="wrapper">
-            <div class="navbar">
-                <div class="navLeft">
-                    <img src="img/logo.png" alt="SuperCoaster Logo">
-                    <h1>SuperCoaster</h1>
-                </div>
-
-                <div class="navRight">
-                    <a class="active" href="index.php">Home</a>
-                    <a href="">Constructie</a>
-                    <a href="">Treintjes</a>
-                    <a href="contact.php">Contact</a>
-                </div>
-            </div>
-        </div>
+        <ul class="nav__links">
+            <li><a href="#">Constructie</a></li>
+            <li><a href="#">Achtbaan</a></li>
+            <li><a href="#">Contact</a></li>
+       </ul>
     </nav>
+    <a class="cta" href="#">Home</a>
 </header>

@@ -27,60 +27,78 @@ body {
 
 /*        */
 /* NAVBAR */
-/*        */
-nav {
-    background-color: rgba(98, 98, 98, 0.7);
-    width: 100%;
-}
-h1{
-    font-family: Pacifico;
-    font-size: 40px;
-}
-.navbar {
-    padding: 10px 0;
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 19px 10%;
+    background-color: #24252a;
 }
-
-.navbar a {
-    text-decoration: none;
-    padding: 5px 10px;
-    font-size: 18px;
-}
-
-.active {
-    color: white;
-}
-
-.active {
-    -moz-box-shadow: inset 0px 1px 0px 0px #3985B1;
-    -webkit-box-shadow: inset 0px 1px 0px 0px #3985B1;
-    box-shadow: inset 0px 1px 0px 0px #3985B1;
-    background-color: #216288;
-    border: 1px solid #17445E;
-    display: inline-block;
-    cursor: pointer;
-    color: #FFFFFF;
-    padding: 8px 18px;
-    text-decoration: none;
-    font: 12px Arial, Helvetica, sans-serif;
-    border-radius: 50px;
-}
-.active:hover {
-    background: linear-gradient(to bottom, #2D77A2 5%, #337DA8 100%);
-    background-color: #28739E;
-}
-.navLeft{
+.firstLeft{
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
-.navLeft img{
-    max-width: 150px;
+.firstLeft h2{
+    font-family: Pacifico;
+    color: #B0CFE0;
 }
+.firstLeft img{
+    width: 100%;
+    max-height: 50px;
+    padding-right: 20px;
+}
+  .logo {
+    cursor: pointer;
+  }
+  
+  .nav__links a,
+  .cta,
+  .overlay__content a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #edf0f1;
+    text-decoration: none;
+  }
+  
+  .nav__links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav__links li {
+    padding: 0px 20px;
+  }
+  
+  .nav__links li a {
+    transition: color 0.3s ease 0s;
+  }
+  
+  .nav__links li a:hover {
+    color: #0088a9;
+  }
+  
+  .cta {
+    padding: 9px 25px;
+    background-color: rgba(0, 136, 169, 1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s ease 0s;
+  }
+  
+  .cta:hover {
+    background-color: rgba(0, 136, 169, 0.8);
+  }
+  
+
+/*   Eind navbar     */
+
 
 .top{
-    background-image: url("../img/2.jpg");
+    background-image: url("../img/frontpage.jpg");
+    z-index: -1000;
+    opacity: 0.6;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
