@@ -1,6 +1,6 @@
 <footer>
     <div class="wrapper">
-        <p id="nameFooter">&copy; SuoerCoasterNv</p>
+        <p id="nameFooter">&copy; SuperCoasterNV</p>
         <div class="pagesFooter">
             <a href="index.php">Home</a>
             <a href="">Constructie</a>
