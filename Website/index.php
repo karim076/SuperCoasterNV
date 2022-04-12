@@ -11,16 +11,12 @@
         <main>
         <div class="containers">
             <img src="img/frontpage.jpg" alt="Snow">
-            <div class="centered">
-                <h6>SuperCoaster</h6>
+            <section>
+                <h1 data-text="SuperCoaster"></h1>
                 <p><span>"</span>Hier kun je het vinden<span>"</span></p>
-            </div>
+            </section>
         </div>
-            <div class="indexText">
-                <div class="wrapper">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing, elit. A neque consequuntur illum quidem ad molestias earum, magnam amet eveniet ipsum, veniam nulla sit maiores!</p>
-                </div>
-            </div>
+        
         </main>
         <footer>
             <?php require_once 'layout/footer.php' ?>
