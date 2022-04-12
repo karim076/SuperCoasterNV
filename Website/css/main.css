@@ -50,6 +50,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
+    cursor: default;
 }
 .firstLeft h2{
     font-family: Pacifico;
@@ -131,7 +132,7 @@ section {
     transform: translate(-50%, -50%);
     color: #fff;
     font-family: 'Roboto', sans-serif;
-
+    cursor: default;
 }
 /*text dec*/
 
