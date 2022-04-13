@@ -18,6 +18,7 @@
         </div>
         <div class="wrapping">
             <div class="row">
+                <img src="img/2.jpg"
                 <div class="box">
                     <div class="top">
                         <img src="img/service.png" alt="service icon">
