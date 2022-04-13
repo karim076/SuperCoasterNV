@@ -16,7 +16,30 @@
                 <p><span>"</span>Hier kun je het vinden<span>"</span></p>
             </section>
         </div>
-        
+        <div class="wrapping">
+            <div class="row">
+                <div class="box">
+                    
+                </div>
+                <div class="box">
+                    
+                </div>
+                <div class="box">
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="box">
+                    
+                </div>
+                <div class="box">
+                    
+                </div>
+                <div class="box">
+                    
+                </div>
+            </div>
+        </div>
         </main>
         <footer>
             <?php require_once 'layout/footer.php' ?>
