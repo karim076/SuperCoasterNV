@@ -335,7 +335,7 @@ footer .wrapper{
     height: 300px;
     padding-right: 20px;
     padding-left: 20px;
-=======
+}
 /*under supercoaster frontpage*/
 .wrapping{
     width: 75%;
@@ -348,9 +348,15 @@ footer .wrapper{
     justify-content: center;
 }   
 .box{
+    padding: 20px;
+    border-radius: 10%;
     margin: 30px;
-    width: 400px;
+    width: 380px;
     height: 400px;
     background:#d3d3d3;
->>>>>>> Stashed changes
+}
+.top img{
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
 }
