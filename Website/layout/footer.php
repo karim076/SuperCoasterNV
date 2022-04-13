@@ -4,7 +4,7 @@
         <div class="pagesFooter">
             <a href="index.php">Home</a>
             <a href="constructie.php">Constructie</a>
-            <a href="karretjes.php">Treintjes</a>
+            <a href="karretjes.php">Karretjes</a>
             <a href="contact.php">Contact</a>
         </div>
         <div class="socialsFooter">
