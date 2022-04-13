@@ -115,7 +115,7 @@ header {
 }
 
 .containers{
-    height: 670px;
+    height: 740px;
     width: 100%;
     background: black;
     overflow: hidden;
@@ -305,6 +305,7 @@ footer .wrapper{
     color: #B0CFE0;
 }
 
+<<<<<<< Updated upstream
 
 .imgCon{
     height: 670px;
@@ -334,4 +335,22 @@ footer .wrapper{
     height: 300px;
     padding-right: 20px;
     padding-left: 20px;
+=======
+/*under supercoaster frontpage*/
+.wrapping{
+    width: 75%;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}   
+.box{
+    margin: 30px;
+    width: 400px;
+    height: 400px;
+    background:#d3d3d3;
+>>>>>>> Stashed changes
 }
