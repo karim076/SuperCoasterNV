@@ -3,7 +3,7 @@
         <p id="nameFooter">&copy; SuperCoasterNV</p>
         <div class="pagesFooter">
             <a href="index.php">Home</a>
-            <a href="">Constructie</a>
+            <a href="constructie.php">Constructie</a>
             <a href="">Treintjes</a>
             <a href="contact.php">Contact</a>
         </div>

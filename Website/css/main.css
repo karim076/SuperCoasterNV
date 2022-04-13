@@ -258,7 +258,7 @@ footer{
 }
 
 footer a:hover{
-    border-bottom: 2px solid grey;
+    color: #0088a9;
 }
 
 footer .wrapper{
