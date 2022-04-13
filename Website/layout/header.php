@@ -10,5 +10,5 @@
             <li><a href="contact.php">Contact</a></li>
        </ul>
     </nav>
-    <a class="cta" href="#">Home</a>
+    <a class="cta" href="../website/index.php">Home</a>
 </header>   
