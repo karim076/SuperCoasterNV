@@ -12,7 +12,7 @@
             <div class="containers">
                 <img src="img/2.jpg" alt="Snow">
                 <section>
-                <h1 data-text="Constructie"></h1>
+                <h1 data-text="Karretjes"></h1>
                 </section>
             </div>
             <div class="textCon">
