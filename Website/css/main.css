@@ -272,7 +272,7 @@ footer .wrapper{
     text-decoration: none;
     color: red;
     padding: 10px;
-    color: #33C3FF;
+    color: white;
 }
 
 .socialsFooter a{
@@ -280,25 +280,25 @@ footer .wrapper{
 }
 
 .fa-facebook {
-    color: #F9FF33;
+    color: #B0CFE0;
     text-decoration: none;
 }
 
 .fa-twitter {
-    color: #F9FF33;
+    color: #B0CFE0;
     text-decoration: none;
   }
 
 .fa-instagram {
-    color: #33C3FF;
+    color: #B0CFE0;    
     text-decoration: none;
 }
 
 .fa-youtube {
-    color: #33C3FF;
+    color: #B0CFE0;
     text-decoration: none;
 }
 
 #nameFooter{
-    color: #F9FF33;
+    color: #B0CFE0;
 }
