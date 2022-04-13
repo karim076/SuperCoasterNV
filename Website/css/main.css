@@ -302,3 +302,25 @@ footer .wrapper{
 #nameFooter{
     color: #B0CFE0;
 }
+
+
+
+.imgCon{
+    background-image: url("../img/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-transform: uppercase;
+    max-resolution: bottom;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+.textCon{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
