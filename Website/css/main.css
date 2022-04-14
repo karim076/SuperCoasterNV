@@ -169,12 +169,18 @@ section p{
 
 
 /*einde*/
-
+.wrappers{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+}
 .indexText .wrapper{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-bottom: 100px;
+    padding-bottom: 100px;
 }
 
 .indexText .wrapper img{
@@ -188,7 +194,7 @@ section p{
     max-width: 450px;
     background: #FAFAFA;
     padding: 30px;
-    margin: 50px auto;
+    margin: 0px auto;
     box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
     border-radius: 10px;
     border: 6px solid #305A72;
@@ -418,3 +424,4 @@ footer .wrapper{
     color: #0088a9;
     font-size: 50px;
 }
+/* form */
