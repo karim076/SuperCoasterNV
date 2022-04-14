@@ -28,7 +28,7 @@ h6{
 }
 
 body {
-    z-index: -1;
+    z-index: 100;
     background-size: cover;
     min-height: 100vh;
     display: flex;
@@ -305,7 +305,6 @@ footer .wrapper{
     color: #B0CFE0;
 }
 
-<<<<<<< Updated upstream
 
 .imgCon{
     height: 670px;
@@ -346,17 +345,63 @@ footer .wrapper{
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    flex-direction: row;
+    z-index: 100;
+    overflow: hidden;
 }   
 .box{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     padding: 20px;
     border-radius: 10%;
     margin: 30px;
     width: 380px;
     height: 400px;
-    background:#d3d3d3;
+    border: 5px solid transparent, lightgrey;
+    background: lightgrey;
+
 }
+
+.top{
+    z-index: 100;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.top h3{
+    z-index: 100;
+    font-size: 35px;
+}
+
 .top img{
-    background-color: transparent;
+    margin-right: 20px;
+    background: transparent;
+    width: 100px;
+    height: 100px;
+}
+
+
+.text p{
+    z-index: 100;
+    float: left;
+    font-size: 20px;
+}
+
+.logos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logos img{
+    width: 75px;
+    height: 75px;
+}
+
+.logos img:hover{
+    transition: 1s ease-out 100ms;
     width: 100px;
     height: 100px;
 }
