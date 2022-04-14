@@ -34,7 +34,7 @@
                     </div>
                     <div class="text">
                         <p>Wat voor soort Achtbanen hebben wij aan te bieden:<p>
-                            <ul><li>Python</li><li>Joris en de draak</li><li>Pegasus</li><li>Vogel Rok</li></ul>Wij zijn natuurlijk altijd nog bezig om nieuwe en een te gekke achtbaan te inoveren, waar onze klanten "wauw" kunnen voor zeggen</p>
+                            <ul><li>Python</li><li>Joris en de draak</li><li>Pegasus</li><li>Vogel Rok</li></ul><p>Wij zijn natuurlijk altijd nog bezig om nieuwe en een te gekke achtbaan te inoveren, waar onze klanten "wauw" kunnen voor zeggen</p>
                     </div>
                 </div>
                 <div class="box">
