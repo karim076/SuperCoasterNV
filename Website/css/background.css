@@ -1,12 +1,11 @@
-body{
-    z-index: 100;
+.background{
     background-size: cover;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    
 }
-body {
+.background {
     --s: 25vmin;
     --p: calc(var(--s) / 2);
     --c1: pink;
