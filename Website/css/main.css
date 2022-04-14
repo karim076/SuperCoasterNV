@@ -382,7 +382,10 @@ footer .wrapper{
     height: 100px;
 }
 
+.text ul{
+    margin: 0;
 
+}
 .text p{
     z-index: 100;
     float: left;
