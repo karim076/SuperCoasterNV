@@ -401,6 +401,7 @@ footer .wrapper{
 .logos img{
     width: 75px;
     height: 75px;
+    transition: 0.5s ease-out 100ms;
 }
 
 .logos img:hover{
