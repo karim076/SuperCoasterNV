@@ -16,6 +16,9 @@
                 <p><span>"</span>Hier kun je het vinden<span>"</span></p>
             </section>
         </div>
+        <div class="h1">
+            <h1>Wat bieden wij aan</h1>
+        </div>
         <div class="wrapping">
             <div class="row">
                 <div class="box">
