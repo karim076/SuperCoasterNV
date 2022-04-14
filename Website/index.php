@@ -75,9 +75,9 @@
                         <p>Wij produceren hoge kwaliteiten aan onze klanten, de klanten die wij blij hebben gemaakt zijn</p>
                     </div>
                     <div class="logos">
-                        <a href="https://www.walibi.nl/nl"> <img src="img/walibi.png" alt="walibie logo"></a>
-                        <a href="https://www.drievliet.nl/"><img src="img/drievliet.png" alt="toverland logo"></a>
-                        <a href="https://www.efteling.com/nl"><img src="img/efteling.png" alt="Efteling logo"></a>
+                        <a href="https://www.walibi.nl/nl" target="_blank" rel="noopener noreferrer"> <img src="img/walibi.png" alt="walibie logo"></a>
+                        <a href="https://www.drievliet.nl/" target="_blank" rel="noopener noreferrer"><img src="img/drievliet.png" alt="toverland logo"></a>
+                        <a href="https://www.efteling.com/nl" target="_blank" rel="noopener noreferrer"><img src="img/efteling.png" alt="Efteling logo"></a>
                     </div>
                 </div>
             </div>
