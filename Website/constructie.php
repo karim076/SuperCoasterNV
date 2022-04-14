@@ -18,8 +18,13 @@
             <div class="textCon">
                 <div class="wrapper">
                     <p>De constructie van de achtbanen hebben een speciaal soort messing. Dit is 69% staal, 20% nikkel en 11% koper. Wij noemen dit MagnaAlloy. Door deze messing gaat de atractie nog sneller dan alle andere achtbanen en gaat de atractie tot wel 25% langer mee. Dit betekent dus dat de kosten goedkoper zijn. Door dit metaal kunnen we speciale vormen maken die we daarvoor niet konden maken.</p>
-                    <img src="img/6.jpg">                
-                </div>              
+                    <img src="img/6.jpg">
+                </div>
+                <div class="wrapper">
+                    <div class="video">
+                        <iframe width="1280" height="720" src="https://www.youtube.com/embed/_tL0zMdvsAI" frameborder="0"></iframe> 
+                    </div>
+                </div>
             </div>
         
         </main>
