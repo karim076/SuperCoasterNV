@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>Lorem Ipsum</title>
+    <link rel="stylesheet" href="css/background.css">
     <?php require_once 'layout/head.php' ?>
 </head>
 
