@@ -2,7 +2,6 @@
 <html lang="en">
     
     <head>
-        <title>SuperCoasterNV</title>
         <?php require_once 'layout/head.php' ?>
     </head>
 
@@ -28,7 +27,7 @@
                         <h3>Service</h3>
                     </div>
                     <div class="text">
-                        <p>Onze service voor onze klanten, door dat wij onze nieuwe producten verkopen, plaatsen we daar ook garantie op.<br>Onze garantie die wij aanbieden is heel breed van technische problem tot pysieke problemen wij kunnen het fixen<br>Wij doen zo veel mogelijk om onze klanten te vreden houden, dit hebben we ook behaald bij al onze andere klanten.</p>
+                        <p>Onze service voor onze klanten, door dat wij onze nieuwe producten verkopen, plaatsen we daar ook garantie op.<br>Onze garantie die wij aanbieden is heel breed van technische problem tot fysieke problemen wij kunnen het fixen.<br>Wij doen zo veel mogelijk om onze klanten te vreden houden, dit hebben we ook behaald bij al onze andere klanten.</p>
                     </div>
                 </div>
                 <div class="box">
@@ -38,7 +37,7 @@
                     </div>
                     <div class="text">
                         <p>Wat voor soort Achtbanen hebben wij aan te bieden:<p>
-                            <ul><li>Python</li><li>Joris en de draak</li><li>Pegasus</li><li>Vogel Rok</li></ul><p>Wij zijn natuurlijk altijd nog bezig om nieuwe en een te gekke achtbaan te inoveren, waar onze klanten "wauw" kunnen voor zeggen</p>
+                            <ul><li>Python</li><li>Joris en de draak</li><li>Pegasus</li><li>Vogel Rok</li></ul><p>Wij zijn natuurlijk altijd nog bezig om nieuwe en een te gekke achtbanen te inoveren, waar onze klanten "wauw" kunnen voor zeggen.</p>
                     </div>
                 </div>
                 <div class="box">
@@ -47,7 +46,7 @@
                         <h3>Over ons</h3>
                     </div>
                     <div class="text">
-                        <p>Wie zijn wij?<br>Wij zijn een bedrijf die opgezet is in 1989, wij creëerde toen de tijd railen voor het achtbaan,<br>Maar na 2001 dachten we dat we ook achtbanen gaan bouwen, en dat was een succesvolle missie die wij hebben samen met onze klanten hebben behaald.<br>Wij hebben klanten van het beroemdste pretparken zoals, walibi, Efteling en Drievliet.</p>
+                        <p>Wie zijn wij?<br>Wij zijn een bedrijf die opgezet is in 1989, wij creëerde toen de tijd railen voor het achtbaan,<br>Maar na 2001 dachten we dat we ook achtbanen gaan bouwen, en dat was een succesvolle missie die wij samen met onze klanten hebben behaald.<br>Wij hebben klanten van het beroemdste pretparken zoals, walibi, Efteling en Drievliet.</p>
                     </div>
                 </div>
             </div>
@@ -58,7 +57,7 @@
                         <h3>Kwaliteit</h3>
                     </div>
                     <div class="text">
-                        <p>Wij zijn een bedrijf die kwaliteit producten levert, hiermee bedoelen we dat onze product met hoge kwaliteit geproduceerd wordt.<br>Heeft u intresse hoe onze achtbanen worden gecreëedt bekijk dan Karretjes pagina, daar vertellen we meer over het bouw materialen en hoe dat tot een kwaliteit product wordt omgezet.<br></p>
+                        <p>Wij zijn een bedrijf die kwaliteit producten leveren, hiermee bedoelen we dat onze product met hoge kwaliteit geproduceerd worden.<br>Heeft u intresse hoe onze achtbanen worden gecreëedt bekijk dan Karretjes pagina, daar vertellen we meer over het bouw materialen en hoe dat tot een kwaliteit product wordt omgezet.<br></p>
                     </div>
                 </div>
                 <div class="box">
@@ -67,7 +66,7 @@
                         <h3>Wachtrij</h3>
                     </div>
                     <div class="text">
-                        <p>Bij onze achtbanen die wij leveren zitten ook nadelen, maar daar hebben we een oplossing voor bedacht.<br>Heeft u ooit last gehad van een lange wachtrij,<br> zo ja dan prijzen we u onze product aan.<br>Wij hebben de zit plaatsen zo gemaakt dat het veilig is en genoeg plek heeft, door meer plek te creëeren dit lost al 50% van het lange rijen.</p>
+                        <p>Bij onze achtbanen die wij leveren zitten ook nadelen, maar daar hebben we een oplossing voor bedacht.<br>Heeft u ooit last gehad van een lange wachtrij,<br> zo ja dan prijzen we u onze product aan.<br>Wij hebben de zit plaatsen zo gemaakt dat het veilig is en genoeg plek heeft, door meer plek te creëeren lost dit al 50% van het lange rijen.</p>
                     </div>
                 </div>
                 <div class="box">
@@ -76,7 +75,7 @@
                         <h3>Onze klanten</h3>
                     </div>
                     <div class="text">
-                        <p>Wij produceren hoge kwaliteiten aan onze klanten, de klanten die wij blij hebben gemaakt zijn</p>
+                        <p>Wij produceren hoge kwaliteit producten aan onze klanten, de klanten die wij blij hebben gemaakt zijn</p>
                     </div>
                     <div class="logos">
                         <a href="https://www.walibi.nl/nl" target="_blank" rel="noopener noreferrer"> <img src="img/walibi.png" alt="walibie logo"></a>
