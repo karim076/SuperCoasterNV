@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="boxing">
-                <h1> specificatie's</h1>
+                <h1>Specificatie's</h1>
                 <p><ul><li>69% staal</li><li>20% nikkel</li><li>11% koper</li><li>MagnaAlloy</li></ul></p>
             </div>
 
