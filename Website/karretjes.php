@@ -8,7 +8,7 @@
     <body>
         <?php require_once 'layout/header.php' ?>
 
-        <main>
+        <main class="main">
             <div class="containers">
                 <img src="img/3.jpg" alt="Snow">
                 <section>
@@ -40,6 +40,19 @@
                 setTimeout(carousel, 2000); // Change image every 2 seconds
                 }
             </script>
+            <div class="texting">
+                <div class="box">
+                    <p>Wij hebben de fram van ons karretje zo klein mogelijk gemaakt zodat ons team het hele ontwerp van het karretje konden maken zonder dat ze teweinig ruimte hadden.</p>
+                </div>
+                <div class="box">
+                    <p>Omdat onze karretjes ook gemaakt zijn uit de MagmaAlloy kunnen ze extra goed tegen de extra-G kracht, hierdoor kunnen onze karretjes nog sneller gaan dan andere parken<</p>
+                </div>
+            </div>
+            <div class="boxing">
+                <h1> specificatie's</h1>
+                <p><ul><li>69% staal</li><li>20% nikkel</li><li>11% koper</li><li>MagnaAlloy</li></ul></p>
+            </div>
+
             <!-- <div class="textCon">
                 <div class="wrapper">
                     <p>Wij hebben de fram van ons karretje zo klein mogelijk gemaakt zodat ons team het hele ontwerp van het karretje konden maken zonder dat ze teweinig ruimte hadden.</p>
