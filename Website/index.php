@@ -2,7 +2,7 @@
 <html lang="en">
     
     <head>
-        <title>Lorem Ipsum</title>
+        <title>SuperCoasterNV</title>
         <?php require_once 'layout/head.php' ?>
     </head>
 

@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Lorem Ipsum</title>
         <?php require_once 'layout/head.php' ?>
     </head>
 

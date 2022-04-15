@@ -1,5 +1,6 @@
 <?php require_once 'backend/config.php'; ?>
-
+<link rel = "icon" href = "https://github.com/karim076/SuperCoasterNV/blob/main/Website/img/logo.png?raw=true" type = "image/x-icon">
+<title>SuperCoasterNV</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="<?php echo $base_url; ?>/css/normalize.css">
