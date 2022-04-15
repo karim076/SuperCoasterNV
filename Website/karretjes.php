@@ -42,10 +42,10 @@
             </script>
             <div class="texting">
                 <div class="boxs">
-                    <p>Wij hebben de fram van ons karretje zo klein mogelijk gemaakt zodat ons team het hele ontwerp van het karretje konden maken zonder dat ze teweinig ruimte hadden.</p>
+                    <p>Wij hebben de frame van ons karretje zo klein mogelijk gemaakt zodat onze team het hele ontwerp van het karretje konden maken zonder dat ze te weinig ruimte hadden.</p>
                 </div>
                 <div class="boxs">
-                    <p>Omdat onze karretjes ook gemaakt zijn uit de MagmaAlloy kunnen ze extra goed tegen de extra-G kracht, hierdoor kunnen onze karretjes nog sneller gaan dan andere parken<</p>
+                    <p>Omdat onze karretjes ook gemaakt zijn uit het MagmaAlloy kunnen ze extra goed tegen de extra-G kracht, hierdoor gaat onze karretjes nog sneller gaan dan andere achtbanen</p>
                 </div>
             </div>
             <div class="boxing">
