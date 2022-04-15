@@ -8,7 +8,8 @@ bij deze project gaan wij voor een klant een website maken
 
 📄Note: Push en Pull voor dat je begint! ;_).<br>
 Color: Yellow, Blue<br>
-Fonts: Pacifico,
+Fonts: Pacifico,<br>
+To-Do: karretjes pagina opmaken geld ook voor constructie pagina.
 
 ## Authors 💻
 
