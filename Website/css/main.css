@@ -330,7 +330,10 @@ footer .wrapper{
     opacity: 50%;
     background: rgba(0, 0, 0, 0.5);
 }
-
+.textcon h1{
+    text-align: center;
+    font-size: 50px;
+}
 .textCon .wrapper{
     display: flex;
     justify-content: space-between;
@@ -456,4 +459,33 @@ footer .wrapper{
 }
 main{
     background:rgb(245, 245, 177);
+}
+/* Text boxs */
+.texting{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.box{
+    font-size: 25px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10%;
+    background-color: #edf0f1;
+}
+.boxing{
+    padding: 10px;
+    margin: 0 auto;
+    font-size: 25px;
+    width: 500px;
+    height: 285px;
+    border-radius: 10%;
+    background-color: #edf0f1;
+    margin-bottom: 100px;
+}
+.boxing h1{
+    text-align: center;
 }
