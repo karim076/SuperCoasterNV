@@ -22,7 +22,7 @@
             <div class="slideshow">
                 <img class="mySlides" src="img/5.jpg">
                 <img class="mySlides" src="img/4.jpg">
-                <img class="mySlides" src="img/4.jpg">
+                <img class="mySlides" src="img/7.jpg">
             </div>
             <script>
                 var slideIndex = 0;
