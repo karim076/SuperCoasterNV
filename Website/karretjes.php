@@ -41,10 +41,10 @@
                 }
             </script>
             <div class="texting">
-                <div class="box">
+                <div class="boxs">
                     <p>Wij hebben de fram van ons karretje zo klein mogelijk gemaakt zodat ons team het hele ontwerp van het karretje konden maken zonder dat ze teweinig ruimte hadden.</p>
                 </div>
-                <div class="box">
+                <div class="boxs">
                     <p>Omdat onze karretjes ook gemaakt zijn uit de MagmaAlloy kunnen ze extra goed tegen de extra-G kracht, hierdoor kunnen onze karretjes nog sneller gaan dan andere parken<</p>
                 </div>
             </div>
