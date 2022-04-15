@@ -1,92 +1,214 @@
 .background{
+    background:rgb(245, 245, 177);;
     background-size: cover;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     
 }
-.background {
-    --s: 25vmin;
-    --p: calc(var(--s) / 2);
-    --c1: pink;
-    --c2: dodgerblue;
-    --c3: white;
-    --bg: var(--c3);
-    --d: 4000ms;
-    --e: cubic-bezier(0.76, 0, 0.24, 1);
-    
-    background-color: var(--bg);
-    background-image:
-      linear-gradient(45deg, var(--c1) 25%, transparent 25%),
-      linear-gradient(-45deg, var(--c1) 25%, transparent 25%),
-      linear-gradient(45deg, transparent 75%, var(--c2) 75%),
-      linear-gradient(-45deg, transparent 75%, var(--c2) 75%);
-    background-size: var(--s) var(--s);
-    background-position: 
-      calc(var(--p) *  1) calc(var(--p) *  0), 
-      calc(var(--p) * -1) calc(var(--p) *  1), 
-      calc(var(--p) *  1) calc(var(--p) * -1), 
-      calc(var(--p) * -1) calc(var(--p) *  0);
-    animation: 
-      color var(--d) var(--e) infinite,
-      position var(--d) var(--e) infinite;
+button {
+  overflow: visible;
+}
+
+button, select {
+  text-transform: none;
+}
+
+button, input, select, textarea {
+  color: #5A5A5A;
+  font: inherit;
+  margin: 0;
+}
+
+input {
+  line-height: normal;
+}
+
+textarea {
+  overflow: auto;
+}
+
+#container {
+  border: solid 3px #474544;
+  max-width: 768px;
+  margin: 60px auto;
+  position: relative;
+}
+
+form {
+  width: 800px;
+  padding: 37.5px;
+  margin: 50px auto;
+  border: 2px solid black;
+}
+
+
+.underline {
+  border-bottom: solid 2px #474544;
+  margin: -0.512em auto;
+  width: 80px;
+}
+
+.icon_wrapper {
+  margin: 50px auto 0;
+  width: 100%;
+}
+
+.icon {
+  display: block;
+  fill: #474544;
+  height: 50px;
+  margin: 0 auto;
+  width: 50px;
+}
+
+.email {
+	float: right;
+	width: 45%;
+}
+
+input[type='text'], [type='email'], select, textarea {
+	background: none;
+  border: none;
+	border-bottom: solid 2px #474544;
+	color: #474544;
+	font-size: 1.000em;
+  font-weight: 400;
+  letter-spacing: 1px;
+	margin: 0em 0 1.875em 0;
+	padding: 0 0 0.875em 0;
+  text-transform: uppercase;
+	width: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+input[type='text']:focus, [type='email']:focus, textarea:focus {
+	outline: none;
+	padding: 0 0 0.875em 0;
+}
+
+.message {
+	float: none;
+}
+
+.name {
+	float: left;
+	width: 45%;
+}
+
+select {
+  background: url('https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-down-32.png') no-repeat right;
+  outline: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}
+
+select::-ms-expand {
+  display: none;
+}
+
+.subject {
+  width: 100%;
+}
+
+.telephone {
+  width: 100%;
+}
+
+textarea {
+	line-height: 150%;
+	height: 150px;
+	resize: none;
+  width: 100%;
+}
+
+::-webkit-input-placeholder {
+	color: #474544;
+}
+
+:-moz-placeholder { 
+	color: #474544;
+	opacity: 1;
+}
+
+::-moz-placeholder {
+	color: #474544;
+	opacity: 1;
+}
+
+:-ms-input-placeholder {
+	color: #474544;
+}
+
+#form_button {
+  background: none;
+  border: solid 2px #474544;
+  color: #474544;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Helvetica', Arial, sans-serif;
+  font-size: 0.875em;
+  font-weight: bold;
+  outline: none;
+  padding: 20px 35px;
+  text-transform: uppercase;
+  -webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+#form_button:hover {
+  background: #474544;
+  color: #F2F3EB;
+}
+
+@media screen and (max-width: 768px) {
+  #container {
+    margin: 20px auto;
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  h1 {
+    font-size: 26px;
   }
   
-  @keyframes color {
-    0%, 25% {
-      --bg: var(--c3);
-    }
-    26%, 50% {
-      --bg: var(--c1);
-    }
-    51%, 75% {
-      --bg: var(--c3);
-    }
-    76%, 100% {
-      --bg: var(--c2);
-    }
+  .underline {
+    width: 68px;
   }
   
-  @keyframes position {
-    0% {
-      background-position: 
-        calc(var(--p) *  1) calc(var(--p) *  0), 
-        calc(var(--p) * -1) calc(var(--p) *  1), 
-        calc(var(--p) *  1) calc(var(--p) * -1), 
-        calc(var(--p) * -1) calc(var(--p) *  0);
-    }
-    25% {
-      background-position: 
-        calc(var(--p) *  1) calc(var(--p) *  4), 
-        calc(var(--p) * -1) calc(var(--p) *  5), 
-        calc(var(--p) *  1) calc(var(--p) *  3), 
-        calc(var(--p) * -1) calc(var(--p) *  4);
-    }
-    50% {
-      background-position: 
-        calc(var(--p) *  3) calc(var(--p) * 8), 
-        calc(var(--p) * -3) calc(var(--p) * 9), 
-        calc(var(--p) *  2) calc(var(--p) * 7), 
-        calc(var(--p) * -2) calc(var(--p) * 8);
-    }
-    75% {
-      background-position: 
-        calc(var(--p) *  3) calc(var(--p) * 12), 
-        calc(var(--p) * -3) calc(var(--p) * 13), 
-        calc(var(--p) *  2) calc(var(--p) * 11), 
-        calc(var(--p) * -2) calc(var(--p) * 12);
-    }
-    100% {    
-      background-position: 
-        calc(var(--p) *  5) calc(var(--p) * 16), 
-        calc(var(--p) * -5) calc(var(--p) * 17), 
-        calc(var(--p) *  5) calc(var(--p) * 15), 
-        calc(var(--p) * -5) calc(var(--p) * 16);
-    }
+  #form_button {
+    padding: 15px 25px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  h1 {
+    font-size: 18px;
   }
   
-  @media (prefers-reduced-motion) {
-    body {
-      animation: none;
-    }
+  .icon {
+    height: 35px;
+    width: 35px;
   }
+  
+  .underline {
+    width: 53px;
+  }
+  
+  input[type='text'], [type='email'], select, textarea {
+    font-size: 0.875em;
+  }
+}
